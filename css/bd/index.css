@@ -1,0 +1,45 @@
+
+.h-bk1 .bk1_right{width:420px;}
+.news-list{width:420px; height:auto;}
+.news-list .news-list-01{width:100%;}
+.news-list li .h1title{height:30px; line-height:30px; font-size:18px; color:#e50505; display:block; overflow:hidden;}
+.news-list li .h1title:hover{ text-decoration:underline;}
+.news-list .h2titleli{ width:100%; height:auto; line-height:26px;}
+.news-list .h2titleli .h2title1{width:200px; float:left; margin-right:20px; height:26px; line-height:26px; display:block; overflow:hidden;}
+.news-list .h2titleli .h2title2{width:200px; float:right; height:26px; line-height:26px; display:block; overflow:hidden;}
+.news-list .news-list-02,.news-list .news-list-03,.news-list .news-list-04{}
+.news-list .news-list-02 li{}
+.news-list li .spantitle{position: relative; padding-left: 45px; line-height: 30px; display:block; font-size: 16px; overflow: hidden;}
+.news-list li .spantitle span{top: 5px; left: 0;position: absolute; display: block; width: 45px; height: 20px; color: #fff; font-size: 14px; line-height: 20px; vertical-align: middle; padding-left: 4px; background:url(../images/xicons.png) no-repeat;}
+.news-list .news-list-02 li .spantitle span{background-position: 0px 0px;}
+.news-list .news-list-03 li .spantitle span{background-position: 0px -21px;}
+.news-list .news-list-04 li .spantitle span{background-position: 0px -42px;}
+
+.h-bk1 .bk1_left .baomingl{width:100%; height:60px; margin-top:10px;}
+.h-bk1 .bk1_left .baomingl .bmbtn{width:180px; background:#ca0602; border-radius:8px; text-align:center;}
+.h-bk1 .bk1_left .baomingl .bmbtn a{ display:block; text-align:center; color:#fff; font-size:28px; font-weight:bold; line-height:60px;}
+.h-bk1 .bk1_right .h-title{height:32px; background: url(../images/titbg.gif) repeat-x left top; border: #D3D3D3 solid 1px; border-bottom:none;}
+.h-bk1 .bk1_right .h-title h3{ float:left; font-size:15px; line-height:32px; background: #C30101; color:#fff; padding:0px 10px;}
+.h-bk1 .bk1_right .h-title .more{ font-size:14px; color:#999; line-height:32px; margin-right:10px;}
+.h-bk1 .bk1_right .h-title a:hover{color:#C00;}
+.h-bk1 .bk1_right .h-zxbox{height:257px; border: #D3D3D3 solid 1px; border-top:none; padding-top:5px;}
+.h-bk1 .bk1_right .h-zxbox li{height:28px; padding-left:25px; padding-right:10px; background:url(../images/dot.png) no-repeat 10px center;}
+.h-bk1 .bk1_right .h-zxbox li a{width:300px; line-height:28px; display:block; overflow:hidden; text-overflow: ellipsis; white-space:nowrap;}
+.h-bk1 .bk1_right .h-zxbox li span{ font-size:12px; color:#999; line-height:28px;}
+.h-bk1 .bk1_right .ybm{width:100%; height:60px; margin-top:10px; background:#00b0f0; border-radius:8px;}
+.h-bk1 .bk1_right .ybm a{ display:block; text-align:center; color:#333; font-size:28px; font-weight:bold; line-height:60px;}
+
+.h-bk2{width:820px; height:105px; overflow:hidden;}
+.h-bk3{margin-top:10px;}
+.h-bk4,.h-bk5,.h-bk6,.h-bk7{margin-top:10px;}
+.h-left .blankbox {width:100%;}
+.blankbox .h-item{width:405px;}
+.h-item .h-title{height:32px; background: url(../images/titbg.gif) repeat-x left top;border: #D3D3D3 solid 1px; border-bottom:none;}
+.h-item .h-title h3{ float:left; font-size:15px; line-height:32px; background: #C30101; color:#fff; padding:0px 15px;}
+.h-item .h-title .more{ font-size:14px; color:#999; line-height:32px; margin-right:10px;}
+.h-item .h-title a:hover{color:#C00;}
+
+.h-item .h-listbox{ height:180px; padding:5px; border: #ccc solid 1px; border-top:none;}
+.h-item .h-listbox li{height:28px; padding-left:20px; background:url(../images/dot.png) no-repeat 6px center;}
+.h-item .h-listbox li span{float:right; font-size:12px; color:#999; line-height:28px;}
+.h-item .h-listbox li a{width:285px; line-height:28px; display:block; overflow:hidden; text-overflow: ellipsis; white-space:nowrap;}

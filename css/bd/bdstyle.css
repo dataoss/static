@@ -1,0 +1,127 @@
+
+
+.banneraaa {
+    background: url(../images/banneraaa-bg.jpg) no-repeat 0 0;
+    background-size: cover;
+    width: 100%;
+    margin-top: --4.07rem;
+}
+
+.formss {
+    width: 90%;
+    padding: 0.4rem 0;
+    margin: -0.5rem auto 0;
+    position: relative;
+    z-index: 99;
+    box-shadow: 0 0 10px #eee;
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.privilege-tittttt {
+    width: 100%;
+    font-size: 4.35rem;
+    margin: 12px auto;
+}
+.privilege-tittttt .reddddd {
+    font-size: 1.4rem;
+}
+.reddddd {
+    color: #e40d0d;
+}
+.banneraaa img {
+    display: inlinewwww-block;
+}
+img {
+    display: block;
+}
+.linewwww-titaaaa {
+    font-size: 4.3rem;
+    text-align: center;
+    position: relative;
+}
+.linewwww-titaaaa span {
+    display: inlinewwww-block;
+    background-color: #fff;
+    padding: 0.1rem 0.2rem;
+}
+.linewwww-titaaaa b {
+    font-size: 2.4rem;
+}
+.reddddd {
+    color: #e40d0d;
+}
+.linewwww {
+    text-align: center;
+    margin-top: 1.65rem;
+}
+.linewwww hr {
+    width: 85%;
+    display: inlinewwww-block;
+    margin-bottom: 10px;
+}
+.linewwww hr:last-child {
+    width: 75%;
+}
+.linewwww hr {
+    width: 85%;
+    display: inlinewwww-block;
+    margin-bottom: 10px;
+}
+* {
+    box-sizing: border-box;
+    font-family: 微软雅黑, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+user agent stylesheet
+form {
+    display: block;
+    margin-top: 0em;
+}
+input, button {
+    outlinewwww: none;
+}
+a, input, label {
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -moz-tap-highlight-color: rgba(0, 0, 0, 0);
+    -ms-tap-highlight-color: rgba(0, 0, 0, 0);
+    -o-tap-highlight-color: rgba(0, 0, 0, 0);
+    tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.formss .form-control {
+    width: 90%;
+    margin: 0.3rem auto 0;
+    border: 1px solid #d0d0d0;
+    height: 6.8rem;
+    padding: 1.1rem;
+    font-size: 3.3rem;
+}
+* {
+    box-sizing: border-box;
+    font-family: 微软雅黑, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.formss .question-btn {
+    margin-top: 0.2rem;
+    width: 90%;
+    height: 7rem;
+    border-radius: 1.1rem;
+    font-size: 4.38rem;
+}
+.question-btn {
+    background: #006ccc;
+    width: 4.5rem;
+    height: 0.70rem;
+    border: none;
+    border-radius: 0.35rem;
+    font-size: 0.28rem;
+    color: #fff;
+    display: block;
+    margin: 0.4rem auto 0;
+    box-shadow: 0 0 0.05rem rgba(0,0,0,0.06);
+    -webkit-box-shadow: 0 0 0.05rem rgba(0,0,0,0.06);
+}
