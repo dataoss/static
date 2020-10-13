@@ -14,7 +14,7 @@ body, div, dl, dt, dd, ul, ol, li, p, h1, h2, h3, h4, h5, h6, pre, form, fieldse
 /* common */
 body{font:12px/1.5 "Microsoft Yahei",Arial,"宋体",Verdana; color:#333;}
 a{color:#333;text-decoration:none;outline: none; blr:expression(this.onFocus=this.blur());-webkit-transition: all 0.25s;-moz-transition: all 0.25s;-ms-transition: all 0.25s;-o-transition: all 0.25s;transition: all 0.25s;}
-a:hover{color:#55c658;text-decoration:none;}
+a:hover{color:#42b4cc;text-decoration:none;}
 ul li{list-style:none;}
 .clear{clear:both;*display:inline;overflow:hidden;}
 .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
@@ -49,13 +49,13 @@ body{background:#ccc;}
 
 .wrap{width:100%;margin:0 auto;max-width:640px;}
 
-header{height:50px;background:#55c658;position:fixed;top:0;z-index:99999999999;width:100%;}
+header{height:50px;background:#0070b0;position:fixed;top:0;z-index:99999999999;width:100%;}
 header .back{display:block;width:25px;height:25px;top:12.5px;left:12.5px;}
 header .back img{width:25px;height:25px;}
 header .logo{display:block;width:134px;height:34px;top:8px;left:50%;margin-left:-76px;}
 header .logo img{width:134px;height:34px;}
 header .search{display:block;width:20px;height:20px;top:15px;right:50px;background:url(https://cdn.jsdelivr.net/gh/dataoss/static/images/zoom.png) no-repeat;background-size:20px 20px;}
-.searchwrap{width:100%;background:#55c658;height:40px;line-height:40px;top:50px;z-index:99999;}
+.searchwrap{width:100%;background:#42b4cc;height:40px;line-height:40px;top:50px;z-index:99999;}
 .searchwrap .searchtext{width:80%;background:#F0F0F0;height:36px;line-height:36px;margin-top:2px;color:#7d7d7d;text-indent:10px;font-size:14px;}
 .searchwrap .searchbtn{width:20%;background:#019c08;height:36px;line-height:36px;margin-top:2px;color:#fff;text-align:center;border:0;font-size:14px;}
 
@@ -96,8 +96,8 @@ header .menu{display:block;width:25px;height:25px;top:12.5px;right:12.5px;backgr
 
 
 .tit{height:36px;border-bottom:3px solid #F6F6F6;}
-.tit h2{line-height:36px;height:36px;float:left;padding:0 10px;text-align:center;font-size:18px;border-bottom:3px solid #55c658;}
-.tit h1{line-height:36px;height:36px;float:left;padding:0 10px;text-align:center;font-size:18px;border-bottom:3px solid #55c658;}
+.tit h2{line-height:36px;height:36px;float:left;padding:0 10px;text-align:center;font-size:18px;border-bottom:3px solid #42b4cc;}
+.tit h1{line-height:36px;height:36px;float:left;padding:0 10px;text-align:center;font-size:18px;border-bottom:3px solid #42b4cc;}
 .newslist .more,.piclist .more,.newslist-text .more{display:block;background:#f6f6f6;width:70%;height:32px;line-height:32px;border-radius:20px;border:1px solid #eee;text-align:center;font-size:15px;margin:10px auto;}
 
 .newslist-text{background:#fff;border-top:5px solid #ddd;padding:0 0 5px;}
@@ -106,7 +106,7 @@ header .menu{display:block;width:25px;height:25px;top:12.5px;right:12.5px;backgr
 .newslist-text li a{font-size:14px;}
 .newslist-text li .time{position:absolute;right:10px;top:8px;display:inline-block;height:20px;line-height:20px;text-indent:20px;background:url(https://cdn.jsdelivr.net/gh/dataoss/static/images/a2.png) no-repeat left center;background-size:15px 15px;}
 
-footer{border-top:5px solid #ddd;padding:15px 0;background:#55c658;color:#f9f9f9;text-align:center;font-size:12px;}
+footer{border-top:5px solid #ddd;padding:15px 0;background:#42b4cc;color:#f9f9f9;text-align:center;font-size:12px;}
 footer .decive a{font-size:14px;margin:0 10px;}
 footer a{color:#f9f9f9;}
 footer p{line-height:24px;}
@@ -116,8 +116,8 @@ footer p{line-height:24px;}
 .pageurl a{display:inline-block;padding:3px 10px;border:1px solid #C6C6C6;margin:0 1px;background:#fff;color:#333;border-radius:2px;}
 .pageurl a[title="总数"]{display:none}
 .pageurl a[title="Total record"]{display:none}
-.pageurl b{display:inline-block;font-weight:400;padding:3px 10px;border:1px solid #55c658;margin:0 1px;background:#55c658;color:#fff;border-radius:2px;}
-.pageurl a b{background:#55c658;color:#fff;border:1px solid #55c658;}
+.pageurl b{display:inline-block;font-weight:400;padding:3px 10px;border:1px solid #42b4cc;margin:0 1px;background:#42b4cc;color:#fff;border-radius:2px;}
+.pageurl a b{background:#42b4cc;color:#fff;border:1px solid #42b4cc;}
 
 .crumbs{background:url(https://cdn.jsdelivr.net/gh/dataoss/static/images/home.png) no-repeat left center;padding-left:20px;background-size:15px 15px;font-size:12px;line-height: 35px;margin-right:10px;color:#999;}
 .crumbs a{color:#999}
@@ -133,7 +133,7 @@ footer p{line-height:24px;}
 .viewurl{margin:15px auto;text-align:center;font-size:14px;clear: both;}
 .viewurl a{display:inline-block;padding:3px 10px;border:1px solid #C6C6C6;margin:0 1px;background:#fff;color:#333;border-radius:2px;-moz-transition: all 0.2s ease-in-out;-webkit-transition: all 0.2s ease-in-out;transition: all 0.2s ease-in-out;}
 .viewurl a[title="Page"]{display:none;}
-.viewurl b{display:inline-block;padding:3px 10px;font-weight:400;margin:0 1px;border-radius:2px;background:#55c658;color:#fff;border:1px solid #55c658;}
+.viewurl b{display:inline-block;padding:3px 10px;font-weight:400;margin:0 1px;border-radius:2px;background:#42b4cc;color:#fff;border:1px solid #42b4cc;}
 
 
 .content{color:#333;font-family:"Microsoft Yahei";overflow:hidden;margin:0 auto;padding:0 10px;font-size:16px;border-bottom: 1px dashed #ddd;}
@@ -163,8 +163,16 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 * html,* html body{background-image:url(about:blank);background-attachment:fixed;}
 #doitbegin_Back2top{display:block;width:30px;height:30px;background:url(https://cdn.jsdelivr.net/gh/dataoss/static/images/to-top.png) no-repeat;position: fixed;_position:absolute;right:5px;bottom:15px;z-index: 10;cursor: pointer;text-indent: -999em;background-size:30px 30px;}
 
-
-
-×
-拖拽到此处
-图片将完成下载
+.vid-wrap{
+    width:100%;background: #000;
+    position:relative;
+    padding-bottom:56.25%;    /*需要用padding来维持16:9比例,也就是9除以16*/
+    height: 0;
+}
+.vid-wrap video{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%
+}
