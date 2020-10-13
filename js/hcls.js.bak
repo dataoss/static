@@ -1,0 +1,11 @@
+//分页下方广告
+function page_top(){
+//document.writeln("<script type=\'text/javascript\' src=\'//a.huacaole.com/site/qofn.js?bw=otlfoec\'></script>");
+}
+
+//相关推荐下方
+function xgtj_down(){
+document.writeln("<script type=\'text/javascript\' src=\'//a.huacaole.com/production/source/1ocie.js?cxpumgpf=g\'></script>");
+}
+
+
