@@ -62,6 +62,9 @@ var _hmt = _hmt || [];
     s.parentNode.insertBefore(bp, s);
 })();
 
+//cnzz
+document.writeln("<div style=\"display:none;\"><script src=\'https://s23.cnzz.com/z_stat.php?id=1277072780&web_id=1277072780\' language=\'JavaScript\'></script></div>");
+
 //屏蔽右键菜单
 document.oncontextmenu = function (event){
 	if(window.event){
