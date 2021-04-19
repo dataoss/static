@@ -138,7 +138,7 @@ footer p{line-height:24px;}
 
 .content{color:#333;font-family:"Microsoft Yahei";overflow:hidden;margin:0 auto;padding:0 10px;font-size:16px;border-bottom: 1px dashed #ddd;}
 .content p {margin:8px 0;text-indent:2em;line-height:26px;font-size:16px;}
-.content h2{display:block;/* height:30px; */line-height:30px;font-size:18px;margin:8px 0;border-bottom:1px solid #bbb;}}
+.content h2{display:block;/* height:30px; */line-height:30px;font-size:16px;margin:8px 0;border-bottom:1px solid #bbb;}}
 .content p img{text-indent:0;display:block;margin:10px auto;max-width:100%;height:auto;}
 .content img{display:block!important;margin:10px auto!important;max-width:100%!important;height:auto!important;}
 
